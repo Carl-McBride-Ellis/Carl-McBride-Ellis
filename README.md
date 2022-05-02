@@ -16,8 +16,9 @@ and the vast majority of the source of the packages can be found here on Github,
 
 ### Visualization
 * [Matplotlib](https://github.com/matplotlib)
-* [seaborn](https://github.com/mwaskom/seaborn)
 * [plotly](https://github.com/plotly)
+* [seaborn](https://github.com/mwaskom/seaborn)
+* [PtitPrince](https://github.com/pog87/PtitPrince)
 
 All the best,<br>
 carl
