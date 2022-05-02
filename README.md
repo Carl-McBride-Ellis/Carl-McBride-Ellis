@@ -18,6 +18,9 @@ and the vast majority of the source of the packages can be found here on Github,
 * [Matplotlib](https://github.com/matplotlib)
 * [plotly](https://github.com/plotly)
 * [seaborn](https://github.com/mwaskom/seaborn)
+
+along with
+* [missingno](https://github.com/ResidentMario/missingno)
 * [PtitPrince](https://github.com/pog87/PtitPrince)
 
 All the best,<br>
