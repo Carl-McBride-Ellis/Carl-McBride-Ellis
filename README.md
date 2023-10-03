@@ -1,15 +1,15 @@
-### I am a machine learning practitioner, particularly interested in the predictive modelling of tabular data.
-Most of my work can be found on [Kaggle](https://www.kaggle.com/carlmcbrideellis), where I maintain a [selection of my notebooks](https://www.kaggle.com/code/carlmcbrideellis/a-selection-of-my-kaggle-notebooks).
-Previously I worked as an academic researcher in the field of statistical mechanics and thermodynamics, and a list of the publications that I have co-authored can be found on my [home page](https://carl-mcbride-ellis.github.io/). I am also on [LinkedIn](https://www.linkedin.com/in/carl-mcbride-ellis/).
+### I am a machine learning practitioner, specialising in the predictive modelling of tabular data.
+Examples of some my published work can be found on [Kaggle](https://www.kaggle.com/carlmcbrideellis), where I maintain a [selection of my notebooks](https://www.kaggle.com/code/carlmcbrideellis/a-selection-of-my-kaggle-notebooks).
+Previously I worked as an academic researcher in the field of statistical mechanics and thermodynamics, and a list of the publications that I have co-authored can be found on my [home page](https://carl-mcbride-ellis.github.io/) (h-index=23). If you wish to get in touch it would be a pleasure to connect on [LinkedIn](https://www.linkedin.com/in/carl-mcbride-ellis/).
 
-Needless to say everything I do is built on the work of others, 
-and the vast majority of the source of the packages can be found here on Github, for example:
+Needless to say a great deal of what I do is facilitated by the work of others, 
+and the vast majority of the source of the python packages can be found right here on GitHub, for example:
 * [scikit-learn](https://github.com/scikit-learn)
 * [NumPy](https://github.com/numpy)
 * [pandas](https://github.com/pandas-dev) / [polars](https://github.com/pola-rs/polars)
 * [SciPy](https://github.com/scipy)
 * [statsmodels](https://github.com/statsmodels)
-* [XGBoost](https://github.com/dmlc/xgboost)
+* [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost)
 * [TabNet](https://github.com/dreamquark-ai/tabnet)
 * [keras](https://github.com/keras-team/keras)
 * [cuML](https://github.com/rapidsai/cuml)
