@@ -9,7 +9,7 @@ and the vast majority of the source of the python packages can be found right he
 * [pandas](https://github.com/pandas-dev) / [polars](https://github.com/pola-rs/polars)
 * [SciPy](https://github.com/scipy)
 * [statsmodels](https://github.com/statsmodels)
-* [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost)
+* [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost) / [LightGBM](https://github.com/microsoft/LightGBM)
 * [TabNet](https://github.com/dreamquark-ai/tabnet)
 * [keras](https://github.com/keras-team/keras)
 * [cuML](https://github.com/rapidsai/cuml)
