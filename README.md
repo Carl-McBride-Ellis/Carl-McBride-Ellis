@@ -11,6 +11,7 @@ and the vast majority of the source of the python packages can be found right he
 * [statsmodels](https://github.com/statsmodels)
 * [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost) / [LightGBM](https://github.com/microsoft/LightGBM)
 * [TabNet](https://github.com/dreamquark-ai/tabnet)
+* [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
 * [keras](https://github.com/keras-team/keras)
 * [cuML](https://github.com/rapidsai/cuml)
 
