@@ -26,3 +26,5 @@ along with
 
 All the best,<br>
 carl
+
+[![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Carl-McBride-Ellis&count_private=true&theme=catppuccin_latte&showicons=true&rank_icon=percentile)]()
