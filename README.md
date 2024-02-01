@@ -5,12 +5,12 @@ Previously I worked as an academic researcher in the field of statistical mechan
 Needless to say a great deal of what I do is facilitated by the work of others, 
 and the vast majority of the source of the python packages can be found right here on GitHub, for example:
 * [scikit-learn](https://github.com/scikit-learn)
-* [NumPy](https://github.com/numpy)
+* [NumPy](https://github.com/numpy) / [SciPy](https://github.com/scipy)
 * [pandas](https://github.com/pandas-dev) / [polars](https://github.com/pola-rs/polars)
-* [SciPy](https://github.com/scipy)
 * [statsmodels](https://github.com/statsmodels)
 * [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost) / [LightGBM](https://github.com/microsoft/LightGBM)
 * [TabNet](https://github.com/dreamquark-ai/tabnet)
+* [quantile-forest](https://github.com/zillow/quantile-forest)
 * [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
 * [keras](https://github.com/keras-team/keras)
 * [cuML](https://github.com/rapidsai/cuml)
