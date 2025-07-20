@@ -3,15 +3,17 @@ Examples of some my published work can be found on [Kaggle](https://www.kaggle.c
 also author of ["The Orange Book of Machine Learning"](https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/main/TOBoML.pdf).
 Previously I worked as an academic researcher in the field of statistical mechanics and thermodynamics, and a list of the over 40 publications that I have co-authored can be found on my [home page](https://carl-mcbride-ellis.github.io/) (h-index=23).
 
-My primary skills are 
-- Data exploration and experimentation
-- Predictive modelling of tabular / structured data using the tools of machine learning
-- Proof of concept (PoC)  prototype models
-- regression techniques with conformal prediction intervals, well calibrated classification
+My primary skills are:
+
+- data exploration and experimentation
+- predictive modelling of tabular / structured data using the tools of machine learning
+- proof of concept (PoC)  prototype models
+- regression techniques with conformal prediction intervals
+- well calibrated probabilistic classification
 
 If you wish to get in touch it would be a pleasure to connect on [LinkedIn](https://www.linkedin.com/in/carl-mcbride-ellis/).
 
-Needless to say a great deal of what I do is facilitated by the work of others, 
+Needless to say a great deal of what I do is made possible by the groundwork of others, 
 and the vast majority of the source of the python packages can be found right here on GitHub, for example:
 * [scikit-learn](https://github.com/scikit-learn)
 * [NumPy](https://github.com/numpy) / [SciPy](https://github.com/scipy)
@@ -24,14 +26,10 @@ and the vast majority of the source of the python packages can be found right he
 * [keras](https://github.com/keras-team/keras)
 * [cuML](https://github.com/rapidsai/cuml)
 
-### Visualization
-* [Matplotlib](https://github.com/matplotlib) / [plotly](https://github.com/plotly) / [seaborn](https://github.com/mwaskom/seaborn)
+#### Visualization
+* [Matplotlib](https://github.com/matplotlib) / [plotly](https://github.com/plotly) / [seaborn](https://github.com/mwaskom/seaborn) along with [missingno](https://github.com/ResidentMario/missingno)
 
-along with
-* [missingno](https://github.com/ResidentMario/missingno) / [PtitPrince](https://github.com/pog87/PtitPrince)
-
-All the best,<br>
-carl
+all facilitated from within the [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab).
 
 [![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Carl-McBride-Ellis&count_private=true&theme=catppuccin_latte&showicons=true&rank_icon=percentile)]()
 
