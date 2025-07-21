@@ -15,16 +15,13 @@ If you wish to get in touch it would be a pleasure to connect on [LinkedIn](http
 
 Needless to say a great deal of what I do is made possible by the groundwork of others, 
 and the vast majority of the source of the python packages can be found right here on GitHub, for example:
-* [scikit-learn](https://github.com/scikit-learn)
+
 * [NumPy](https://github.com/numpy) / [SciPy](https://github.com/scipy)
 * [pandas](https://github.com/pandas-dev) / [polars](https://github.com/pola-rs/polars)
 * [statsmodels](https://github.com/statsmodels)
+* [scikit-learn](https://github.com/scikit-learn)
 * [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost) / [LightGBM](https://github.com/microsoft/LightGBM)
-* [TabNet](https://github.com/dreamquark-ai/tabnet)
-* [quantile-forest](https://github.com/zillow/quantile-forest)
-* [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
-* [keras](https://github.com/keras-team/keras)
-* [cuML](https://github.com/rapidsai/cuml)
+* [quantile-forest](https://github.com/zillow/quantile-forest) and [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
 
 #### Visualization
 * [Matplotlib](https://github.com/matplotlib) / [plotly](https://github.com/plotly) / [seaborn](https://github.com/mwaskom/seaborn) along with [missingno](https://github.com/ResidentMario/missingno)
