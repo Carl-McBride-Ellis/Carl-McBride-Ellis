@@ -22,6 +22,7 @@ and the vast majority of the source of the python packages can be found right he
 * [scikit-learn](https://github.com/scikit-learn)
 * [XGBoost](https://github.com/dmlc/xgboost) / [CatBoost](https://github.com/catboost/catboost) / [LightGBM](https://github.com/microsoft/LightGBM)
 * [quantile-forest](https://github.com/zillow/quantile-forest) and [MAPIE](https://github.com/scikit-learn-contrib/MAPIE)
+* [TabPFN](https://github.com/PriorLabs/TabPFN) by [Prior Labs](https://priorlabs.ai/)
 
 #### Visualization
 * [Matplotlib](https://github.com/matplotlib) / [plotly](https://github.com/plotly) / [seaborn](https://github.com/mwaskom/seaborn) along with [missingno](https://github.com/ResidentMario/missingno)
