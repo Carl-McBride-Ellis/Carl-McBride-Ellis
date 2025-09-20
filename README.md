@@ -1,6 +1,6 @@
 ### I am a machine learning practitioner, specialising in the predictive modelling of tabular data.
 Examples of some my published work can be found on [Kaggle](https://www.kaggle.com/carlmcbrideellis), where I maintain a [selection of my notebooks](https://www.kaggle.com/code/carlmcbrideellis/a-selection-of-my-kaggle-notebooks), I am 
-also author of ["The Orange Book of Machine Learning"](https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/main/TOBoML.pdf).
+also author of ["The Orange Book of Machine Learning"](https://leanpub.com/TOBoML2).
 Previously I worked as an academic researcher in the field of statistical mechanics and thermodynamics, and a list of the over 40 publications that I have co-authored can be found on my [home page](https://carl-mcbride-ellis.github.io/) (h-index=24).
 
 My primary skills are:
